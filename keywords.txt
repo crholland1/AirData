@@ -1,0 +1,10 @@
+AirData	KEYWORD1
+getIAS	KEYWORD2
+getEAS	KEYWORD2
+getTAS	KEYWORD2
+getPressureAltitude	KEYWORD2
+getAGL	KEYWORD2
+getMSL	KEYWORD2
+getDensityAltitude	KEYWORD2
+getApproxTemp	KEYWORD2
+getDensity	KEYWORD2
